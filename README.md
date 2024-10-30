@@ -1,5 +1,5 @@
 ### Hi, I'm Zoey 👋
-I am a microbial ecologist studying the soil microbiome. I develop computational tools for linking soil bioinformatics with ecological properties, like nutrient cycling and plant productivity.
+I am a microbial ecologist studying the soil microbiome. I develop computational resources for linking soil bioinformatics with ecological properties, like nutrient cycling and plant productivity.
 
 [![Google Scholar](https://img.shields.io/badge/-publications-100?&logo=Google-Scholar)](https://scholar.google.co/citations?useraM7-dJoAAAAJ)&nbsp;
 
