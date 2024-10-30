@@ -1,4 +1,13 @@
-## Hi there 👋
+### Hi, I'm Zoey 👋
+I am a microbial ecologist studying the soil microbiome. I develop computational tools for linking soil bioinformatics with ecological properties, like nutrient cycling and plant productivity.
+
+[![Google Scholar](https://img.shields.io/badge/-publications-100?&logo=Google-Scholar)](https://scholar.google.co/citations?useraM7-dJoAAAAJ)&nbsp;
+
+#### some stats📈
+<p align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=zoey-rw&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="#your-username" /> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=zoey-rw&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="#your-username" />
+</p>
 
 <!--
 **zoey-rw/zoey-rw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
