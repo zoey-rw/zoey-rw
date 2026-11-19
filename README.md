@@ -1,21 +1,37 @@
-### Hi, I'm Zoey 👋
-I am a microbial ecologist studying the soil microbiome. I develop computational resources for linking soil bioinformatics with ecological properties, like nutrient cycling and plant productivity.
+# Hi, I'm Zoey Werbin, PhD 👋
 
-[![Google Scholar](https://img.shields.io/badge/-publications-100?&logo=Google-Scholar)](https://scholar.google.com/citations?user=aM7-dJoAAAAJ)&nbsp;
+I'm an ecological data scientist at [Funga](https://www.funga.earth), a public benefit corporation that restores native fungal communities to forest soils 🌲🍄. 
 
-![R](https://img.shields.io/badge/-R-000?&logo=R)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![R Shiny](https://img.shields.io/badge/-Shiny-000?&logo=posit)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+[📚 Publications](https://scholar.google.com/citations?user=aM7-dJoAAAAJ) | [🌐 Website](https://zoey-rw.github.io) | [📄 CV](https://zoey-rw.github.io/cv/)
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=zoey-rw&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="#your-username" /> 
+---
 
+### 🔬 What I Do
+- Build machine learning models that predict how fungal inoculants will perform at new sites
+- Build and maintain our pipeline for analyzing randomized field trials, with spatiotemporal mixed models, bootstrap uncertainty, and survival analysis
+- Design soil sampling campaigns using geospatial data and aerial imagery
+- Lead development of a QR-code workflow that tracks thousands of soil samples from the field through shipping and sequencing
+- Help design our PostgreSQL data platform for field survey, forest inventory, and DNA sequencing data
 
-<!--
-**zoey-rw/zoey-rw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-#### some stats📈
+### 🌱 Research
+- Forecasting soil microbial communities across U.S. NEON sites with Bayesian hierarchical models
+- How soil microbiome predictability changes with spatial and taxonomic scale
+- Genome-scale metabolic modeling of soil carbon and nitrogen cycling
+- Genome databases for detecting fungi and uncultivated microbes in soil metagenomes
 
-#<img width="48%" src="https://github-readme-stats.vercel.app/api?username=zoey-rw&show_icons=true&theme=synthwave&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="#your-username" />
+---
 
--->
+### 🛠 Tech Stack
+- **Languages:** R, Python, SQL, Bash
+- **Statistics & ML:** Bayesian hierarchical modeling (JAGS, NIMBLE), mixed models, XGBoost, experimental design
+- **Bioinformatics:** amplicon sequencing (DADA2), metagenomics, metabolic modeling
+- **Workflows & data:** PostgreSQL, Windmill, Nextflow, Snakemake, Docker, Databricks, AWS
+- **Geospatial:** Google Earth Engine, QGIS, ArcGIS
+
+---
+
+### 🎓 Education
+- **Ph.D.** Biology, Certificate in Biogeoscience, Boston University
+- **B.A.** Biology, Minor in Environmental Studies, Swarthmore College
